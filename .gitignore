@@ -3,4 +3,4 @@
 */vendor
 vendor
 */.idea
-**/php/mail-config.php
+php/mail-config.php
